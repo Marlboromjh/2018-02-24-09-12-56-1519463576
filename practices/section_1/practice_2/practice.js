@@ -13,7 +13,7 @@ for(var i=0;i<collection_a.length;i++){
         }
     }
 }
-console.log(arr);
+return arr;
 }
 
 module.exports = collect_same_elements;
