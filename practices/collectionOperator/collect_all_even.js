@@ -2,7 +2,6 @@
 
 function collect_all_even(collection) {
   //在这里写入代码
-  var collection_a = [1, 2, 3, 4, 5];
 var collect_all_even=[];
 for(var i=0;i<collection_a.length;i++){
     if(collection_a[i]%2==0){
